@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi, there! 👋
 
+My name is Daria, i am from Krasnoyarsk. An inspired Java developer. I am doing my best at practicing Java and learning new technologies!
+
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,postgresql,spring,git,github,docker,maven,idea)](https://skillicons.dev)
 <!--
 **MelTrevelyan/MelTrevelyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
